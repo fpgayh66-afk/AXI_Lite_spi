@@ -1,0 +1,17 @@
+*.vcd
+*.wdb
+*.wcfg
+*.log
+*.jou
+*.pb
+*.dcp
+*.xpr
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+vivado_*.backup.*
+project_1/
+xgui/
+.DS_Store
